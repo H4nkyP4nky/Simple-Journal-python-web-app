@@ -1,0 +1,7 @@
+[theme]
+backgroundColor="#b29e84"
+font = "'Hammersmith One':https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap"
+headingFont = "'Hammersmith One':https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap"
+textColor = "#eae8e3"
+secondaryBackgroundColor = "#443a2e"
+primaryColor = "#443a2e"
